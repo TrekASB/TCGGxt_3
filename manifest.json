@@ -1,8 +1,9 @@
 {
-  "title": "Kum BIK-visning",
+  "title": "MMI-verdi",
   "icon": "https://trekasb.github.io/TCGGxt_3/icon.png",
   "url": "https://trekasb.github.io/TCGGxt_3/index.html",
-  "description": "Viser \"Kote Bunn Innvendig Kum (BIK)\" fra WA_Pset for valgt kum-objekt i 3D-modellen.",
+  "description": "MMI-objektverdi i 3D-modellen.",
   "enabled": true
 }
+
 
